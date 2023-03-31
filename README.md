@@ -20,4 +20,3 @@ recharts<br/>
 pesticide extension<br/>
 vercel<br/>
 docker<br/>
-docker
