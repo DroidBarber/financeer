@@ -15,8 +15,10 @@ react dropzone<br/>
 redux toolkit<br/>
 redux toolkit query<br/>
 regression<br/>
+mui<br/>
 mui data grid<br/>
 recharts<br/>
 pesticide extension<br/>
+fly.io
 vercel<br/>
 docker<br/>
